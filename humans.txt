@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ashish Varshney ashish.varsh@gmail.com
 
 # THANKS
 
